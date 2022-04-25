@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-In order to access the backend, please go through here: https://github.com/shhhawn9/E-commerceWebApp-BackEnd
+In order to access the backend to see the full demo, please go through here and run the application: https://github.com/shhhawn9/E-commerceWebApp-BackEnd
 
 ## Code scaffolding
 
