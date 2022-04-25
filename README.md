@@ -8,6 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - The website allows users to see all items, read description of those items, add those items into cart, and checkout the cart.
 - The website allows users to register their own accounta and track their orders with Okta API
 - The website allows users to pay with their credit card and recieve an email receipt with Stripe API
+- During checkout, users are able to easily select country and state, and copy their address to billing address if they are the same.
 
 ## Development server
 
