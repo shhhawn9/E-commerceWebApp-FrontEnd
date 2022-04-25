@@ -8,12 +8,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - The website allows users to see all items, read description of those items, add those items into cart, and checkout the cart.
 - The website allows users to register their own accounta and track their orders with Okta API
 - The website allows users to pay with their credit card and recieve an email receipt with Stripe API
-- 
 
 ## Development server
 
 Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
---In order to access the backend to see the full demo, please go through here and run the application: -- [https://github.com/shhhawn9/E-commerceWebApp-BackEnd]
+**In order to access the backend to see the full demo, please go through here and run the application:** [Ecommerce Back End](https://github.com/shhhawn9/E-commerceWebApp-BackEnd)
 
 ## Code scaffolding
 
